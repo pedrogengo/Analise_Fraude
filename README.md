@@ -11,3 +11,4 @@ O projeto foi dividido em duas etapas:
 Alunos:
 
 Pedro Gabriel Gengo Lourenço - pedro.gabriel.lourenco@hotmail.com
+Matheus Túlio Pereira da Cruz - matheus.tulio.pc@gmail.com
