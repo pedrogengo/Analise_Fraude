@@ -1,6 +1,6 @@
 # Analise_Fraude
 
-Projeto desenvolvido para a matéria de Aprendizado de Máquina na Universidade Federal do ABC.
+Projeto desenvolvido para a matéria de Aprendizado de Máquina na Universidade Federal do ABC em 2019.1.
 
 O projeto foi dividido em duas etapas:
 
@@ -8,7 +8,8 @@ O projeto foi dividido em duas etapas:
 
 - Treino e avaliação do modelo de aprendizado utilizado.
 
-Alunos:
+
+#### Alunos:
 
 - [Pedro Gabriel Gengo Lourenço](https://github.com/pedrogengo/Analise_Fraude) - pedro.gabriel.lourenco@hotmail.com
   - [Github](https://github.com/pedrogengo)
