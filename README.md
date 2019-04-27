@@ -12,3 +12,4 @@ Alunos:
 
 Pedro Gabriel Gengo Lourenço - pedro.gabriel.lourenco@hotmail.com
 Matheus Túlio Pereira da Cruz - matheus.tulio.pc@gmail.com
+Vinicius Domingues Ribeiro - vinicius.domingues.ribeiro@gmail.com
