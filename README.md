@@ -10,11 +10,11 @@ O projeto foi dividido em duas etapas:
 
 Alunos:
 
-- [Pedro Gabriel Gengo Lourenço]() - pedro.gabriel.lourenco@hotmail.com
+- [Pedro Gabriel Gengo Lourenço](https://github.com/pedrogengo/Analise_Fraude) - pedro.gabriel.lourenco@hotmail.com
   - [Github](https://github.com/pedrogengo)
-- [Matheus Túlio Pereira da Cruz]() - matheus.tulio.pc@gmail.com
+- [Matheus Túlio Pereira da Cruz](https://github.com/pedrogengo/Analise_Fraude) - matheus.tulio.pc@gmail.com
   - [Github](https://github.com/MatheusTulio)
-- [Vinicius Domingues Ribeiro]() - vinicius.domingues.ribeiro@gmail.com
+- [Vinicius Domingues Ribeiro](https://github.com/pedrogengo/Analise_Fraude) - vinicius.domingues.ribeiro@gmail.com
   - [Github](https://github.com/vinidom)
 - [Gustavo Silva de Paula](https://gustavosdepaula.github.io) - gustavosdepaula0@gmail.com
- - [Github](https://github.com/gustavosdepaula)
+  - [Github](https://github.com/gustavosdepaula)
